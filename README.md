@@ -15,4 +15,6 @@ A correlation matrix Heatmap was employed to identify strong associations betwee
 
 Finally we employed an ols regression to measure the model fit using the characteristics we had extracted at this point.
 
-The model output shows R^2 of >0.7, suggesting that we can with 71% accuracy predict the diagnosis of the cell type (malignant of benign) from a set of specific cell characteristics
+The model output shows R^2 of >0.717, suggesting that we can with 71% accuracy predict the diagnosis of the cell type (malignant of benign) from a set of specific cell characteristics
+
+Presentation Google slides link: https://docs.google.com/presentation/d/1QFwmSnX6ZeGHmyoZ5S5JWPtKWLS-SWldB6ZukOQZBhM/edit?ts=5e0e263d#slide=id.g76375d83e3_0_67
