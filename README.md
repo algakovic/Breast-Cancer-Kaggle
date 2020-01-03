@@ -3,7 +3,7 @@ We conducted an investigation on Breast Cancer Cell Data from Kaggle Breast Canc
 
 The data clearly identifies two types of diagnosed cancer tumour cells. Those are benign and malignant.
 
-We aimed to discover 1). If characteristics were significantly different between diagnosis groups. 2). Were there any strong associations among the tmour cell characteristics? and 3). Could we predict malignancy of tumours based on characteristics of cell nuclei.
+We aimed to discover 1). If there were strong associations among the tumour cell nuclei characteristics 2). If characteristics were significantly different between diagnosis groups and 3). Could we predict malignancy of tumours based on characteristics of the cell nuclei.
 
 After cleaning and transforming the necessary columns of data, our EDA led us to drop more unneccesary features.
 
