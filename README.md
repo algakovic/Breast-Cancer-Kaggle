@@ -1,4 +1,4 @@
-# Breast-Cancer-Kaggle
+# Breast-Cancer-Kaggle Project
 We conducted an investigation on Breast Cancer Cell Data from Kaggle Breast Cancer Wisconsin Data set:https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
 
 The data clearly identifies two types of diagnosed cancer tumour cells. Those are benign and malignant.
