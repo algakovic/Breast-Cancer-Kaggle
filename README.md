@@ -1,7 +1,9 @@
 # Breast-Cancer-Kaggle
-During our investigation on Breast Cancer Cell data we have discovered that two groups of cells are responsible for cancerous tumours, those are benign and malignant.
+We conducted an investigation on Breast Cancer Cell Data from Kaggle Breast Cancer Wisconsin Data set:https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
 
-We aimed to discover 1). If characteristics were significantly different between diagnosis groups. 2). Were there any strong associations among the tmour cell characteristics? and 3). Could we predict malignancy of tumours based on characteristics of cell nuclei
+The data clearly identifies two types of diagnosed cancer tumour cells. Those are benign and malignant.
+
+We aimed to discover 1). If characteristics were significantly different between diagnosis groups. 2). Were there any strong associations among the tmour cell characteristics? and 3). Could we predict malignancy of tumours based on characteristics of cell nuclei.
 
 After cleaning and transforming the necessary columns of data, our EDA led us to drop more unneccesary features.
 
